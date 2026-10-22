@@ -11,7 +11,7 @@ from google import genai
 from google.genai import types
 from PIL import Image
 
-DEFAULT_MODEL = "gemini-2.5-flash"
+DEFAULT_MODEL = "gemini-3.8-flash"
 MAX_PHONES = 4
 
 SYSTEM_PROMPT = """You are an expert mobile phone analyst.
